@@ -35,9 +35,6 @@ Using SQL aggregations and date-based grouping.
 - Calculate order volume using COUNT(DISTINCT order_id)  
 - Sort results using ORDER BY  
 - Limit data with LIMIT to focus on top results
-- RESULTS:
-![Screenshot (54)](https://github.com/user-attachments/assets/19ec94b4-8ad0-4b29-9d6e-dd678f262ba5)
-![Screenshot (55)](https://github.com/user-attachments/assets/30fcb92e-fd62-4a4f-be64-96b529342d7d)
-![Screenshot (56)](https://github.com/user-attachments/assets/7299ccbe-ba50-4643-85a8-3ddba7a422a0)
+- RESULT
 
 
